@@ -1,14 +1,14 @@
 # JSON (JavaScript Object Notation)
 
 ## Table of Contents
-1. [What is JSON?](##what-is-json)
-2. [JSON Data](##json-data)
-3. [JSON Object](##json-object)
-4. [How to Create a JSON File](##how-to-create-a-json-file)
-5. [How to Access JSON Data](##how-to-access-json-data)
-6. [JSON to Object](##json-to-object)
-7. [Object to JSON](##object-to-json)
-8. [Advantages and Disadvantages of JSON](##advantages-and-disadvantages-of-json)
+1. [What is JSON?](#what-is-json)
+2. [JSON Data](#json-data)
+3. [JSON Object](#json-object)
+4. [How to Create a JSON File](#how-to-create-a-json-file)
+5. [How to Access JSON Data](#how-to-access-json-data)
+6. [JSON to Object](#json-to-object)
+7. [Object to JSON](#object-to-json)
+8. [Advantages and Disadvantages of JSON](#advantages-and-disadvantages-of-json)
 
 ## What is JSON?
 
