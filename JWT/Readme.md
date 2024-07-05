@@ -40,7 +40,7 @@ To create a JWT:
 
 Example using Node.js and the jsonwebtoken library:
 
-bash
+```bash
 const jwt = require('jsonwebtoken');
 const secretKey = 'your-secret-key';
 
@@ -50,6 +50,7 @@ const payload = {
 };
 
 const token = jwt.sign(payload, secretKey, { expiresIn: '1h' });
+```
 
 ## How to Validate JWT
 
@@ -59,7 +60,7 @@ const token = jwt.sign(payload, secretKey, { expiresIn: '1h' });
 - Check if the token has expired
 - Verify any additional claims as required by your application
 
-bash
+```bash
 const jwt = require('jsonwebtoken');
 const secretKey = 'your-secret-key';
 
@@ -72,6 +73,7 @@ function verifyToken(token) {
     return null;
   }
 }
+```
 
 
 ## How JWT Works
